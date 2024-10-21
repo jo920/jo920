@@ -1,6 +1,6 @@
 # Hey, my name is João Henrique
 
-<p>Tenho 23 anos e atuo na area de TI / Desenvolvimento de Sotfware desde Janeiro de 2021.</p>
+<p>Tenho 23 anos e atuo na area de TI / Desenvolvimento de Software desde Janeiro de 2021.</p>
 <p>Sou apaixonado pelo mundo da Tecnologia e atualmente sou Analistas de Sistemas na TOTVS Juritis utilizando ADVPL e PL/SQL.</p>
 
 <div>
